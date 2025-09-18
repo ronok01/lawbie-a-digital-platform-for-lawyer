@@ -1,4 +1,4 @@
-# Jessicarosen151 Backend
+# Lawbie A Digital Platform for Lawyer Backend
 
 A production-ready Node.js/Express backend for a legal resources marketplace with roles for Users, Sellers, and Admins. It includes authentication with JWT and OTP email verification, role-based authorization, product/resource management, Stripe payments and webhooks, dashboards, messaging, reviews, newsletters, and admin-managed custom content.
 
